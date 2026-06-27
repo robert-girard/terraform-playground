@@ -1,0 +1,4 @@
+.terraform
+*.lock.hcl
+*.tfstate
+lesson_1/sample.txt
